@@ -1,4 +1,3 @@
-Fundamentals of Computing Final Project
 w/ Whitney Choo
 
 This is a fun and simple Fruit Catching game using C! 
